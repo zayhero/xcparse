@@ -16,7 +16,7 @@ setup(
         'xcparse/Xcode',
         'xcparse/Xcode/PBX',
         'xcparse/Xcode/XCSchemeActions',
-        'xcparse/Xcode/XCConfig'
+        'xcparse/Xcode/XCConfig',
         'xcparse/Xcode/BuildSystem',
         'xcparse/Xcode/BuildSystem/XCSpec',
         'xcparse/Xcode/BuildSystem/LangSpec',
